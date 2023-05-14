@@ -7,7 +7,7 @@ import os
 """
 sources: 
 - Liam Ottley - YouTube: https://www.youtube.com/@LiamOttley
-- OpenAI GPT4
+- OpenAI GPT4 .
 """
 
 class GPTSimpleVectorIndexWithPrompt(GPTSimpleVectorIndex):
